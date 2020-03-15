@@ -1,3 +1,6 @@
+# verification msg: 3999dbf1cd7285a286f8216578155ce11f1e7b6bf045e38c02ac50d6835a128a
+# link to COLAB: https://colab.research.google.com/drive/1Xt8S1lvhC_HRDaKtt6cKHfHyFxFwewpu
+
 from hashlib import sha256
 import praw
 
