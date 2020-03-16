@@ -56,7 +56,7 @@ while True:
         + f'Titles (weighted at 2 points):\n# of Postive titles: {calls_titles}\n# of Negative titles: {puts_titles}\n\n'
         + f'Post Text (also weighted at 2 points):\n# of Postive texts: {calls_post_text}\n# of Negative texts: {puts_post_text}\n\n'
         + f'Comments (1 point):\n# of Postive comments: {calls_comments}\n# of Negative comments: {puts_comments}\n\n\n'
-        + f'Sampled {runs} batch(es); keep running to anaylse more posts\n--------\n\n')
+        + f'Sampled {runs} batch(es); keep running to analyse more posts\n--------\n\n')
 
 
 
