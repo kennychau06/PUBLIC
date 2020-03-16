@@ -53,9 +53,9 @@ while True:
 
     txt = '(positive)' if sentiment > 0 else '(negative)'
     print(f'>> Calculated Sentiment: {sentiment}% {txt}\n\n'
-        + f'Titles (weighted at 2 points):\n# of Postive titles: {calls_titles}\n# of Negative titles: {puts_titles}\n\n'
-        + f'Post Text (also weighted at 2 points):\n# of Postive texts: {calls_post_text}\n# of Negative texts: {puts_post_text}\n\n'
-        + f'Comments (1 point):\n# of Postive comments: {calls_comments}\n# of Negative comments: {puts_comments}\n\n\n'
+        + f'Titles (weighted at 2 points):\n# of Positive titles: {calls_titles}\n# of Negative titles: {puts_titles}\n\n'
+        + f'Post Text (also weighted at 2 points):\n# of Positive texts: {calls_post_text}\n# of Negative texts: {puts_post_text}\n\n'
+        + f'Comments (1 point):\n# of Positive comments: {calls_comments}\n# of Negative comments: {puts_comments}\n\n\n'
         + f'Sampled {runs} batch(es); keep running to analyse more posts\n--------\n\n')
 
 
